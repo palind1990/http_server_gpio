@@ -4,7 +4,7 @@
 
 ## Usage
 
-## first try
+## opdracht_sockets_http
 ```bash
 # install library
 tlpi-dist
@@ -21,7 +21,7 @@ sudo ./Client localhost 8001
 sudo ./Server 8001
  ```
  
- ## second try
+ ## http_server
 ```bash
 # install library
 tlpi-dist
